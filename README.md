@@ -1,3 +1,9 @@
+## 转自https://github.com/erwanjun/weixin_tuisong
+
+自行进行了一些修改
+
+
+
 # 基础（无定时推送）
 
 ## clone这个项目
