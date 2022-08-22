@@ -1,5 +1,13 @@
 # 基础（无定时推送）
 
+## clone这个项目
+
+```shell
+git clone https://github.com/desonglll/gzh-push.git
+```
+
+
+
 ## 前置条件
 
 注册一个微信公众号，利用下面的链接注册一个微信公众测试号
