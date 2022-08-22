@@ -1,6 +1,12 @@
-## 转自https://github.com/erwanjun/weixin_tuisong
+## 改编自:小红书@猪咪不是猪
 
-自行进行了一些修改
+转自
+
+https://github.com/erwanjun/weixin_tuisong
+
+感谢作者，自行进行了一些修改
+
+
 
 
 
