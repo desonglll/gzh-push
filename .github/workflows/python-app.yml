@@ -25,6 +25,7 @@ jobs:
       - name: Change Directory
         run: |
           cd tuisong
+          ls
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
