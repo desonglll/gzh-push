@@ -4,13 +4,8 @@
 name: Python application
 
 on:
-  # push:
-  # branches: ["main"]
-  # pull_request:
-  # branches: ["main"]
   schedule:
-    - cron: '* * * * *'
-  workflow_dispatch:
+    - cron: "*/5 * * * *"
 
 permissions:
   contents: read
