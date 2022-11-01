@@ -4,6 +4,9 @@
 name: auto push
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '50 15 * * *'
 
