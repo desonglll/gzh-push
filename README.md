@@ -49,15 +49,24 @@ git clone https://github.com/desonglll/gzh-push.git
 
 ```
 {{date.DATA}} 
+
 🏢城市：{{city.DATA}} 
+
 🌤天气：{{weather.DATA}} 
+
 ❄️最低气温: {{min_temperature.DATA}} 
+
 🔥最高气温: {{max_temperature.DATA}} 
-📝今日建议：继续努力💪 
+
+📝今日建议：说声早安💪 
+
 🍎今天是我们认识的第{{love_day.DATA}}天 
-🍷距离李骏生日还有{{birthday1.DATA}}天 
-📚距离我的生日还有{{birthday2.DATA}}天 
-🎧寄言： 记得享受生活👊
+
+🍷距离王宸鹭生日还有{{birthday1.DATA}}天 
+
+📚距离林德松的生日还有{{birthday2.DATA}}天 
+
+🎧今天也很开心！！👊
 ```
 
 这个模板可以整个全部复制进去
