@@ -4,8 +4,9 @@
 name: auto push
 
 on:
-  schedule:
-    - cron: '1 0 * * *'
+  push:
+  # schedule:
+    # - cron: '1 0 * * *'
 
 jobs:
   build:
