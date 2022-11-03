@@ -8,6 +8,17 @@ https://github.com/erwanjun/weixin_tuisong
 
 
 
+```
+
+1 0 * * * bash ~/Documents/crontab-tasks/gzh-push.sh
+
+```
+
+```
+
+
+
+```
 
 
 # 基础（无定时推送）
