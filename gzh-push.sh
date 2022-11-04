@@ -1,2 +1,2 @@
 cd ~/Documents/gzh-push/tuisong
-python main.py
+python3 main.py
