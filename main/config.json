@@ -1,0 +1,19 @@
+{
+  "app_id": "wxa329582d53d4538d",
+  "app_secret": "b07d9bdae15a04beb95c5c7f7258c6d3",
+  "template_id": "4jkkmFxGCf1P5q4QRQD0D_7CdPDtVoCkQoHgcdPXMG8",
+  "user": ["oyA8q69EyZN0-UvgLfKBu_kr3egk"],
+  "province": "山东",
+  "city": "济宁",
+  "birthday1": "2003-05-29",
+  "birthday2": "2002-08-07",
+  "love_date": "2022-10-28",
+  "Whether_Eng": false,
+  "Whether_caihongpi": false,
+  "Whether_lizhi": false,
+  "Whether_tip": false,
+  "Whether_health": false,
+  "Whether_lucky": false,
+  "tianxing_API": "",
+  "astro": ""
+}

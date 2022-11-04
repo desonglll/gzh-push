@@ -77,7 +77,19 @@ git clone https://github.com/desonglll/gzh-push.git
 
 📚距离林德松的生日还有{{birthday2.DATA}}天 
 
-🎧今天也很开心！！👊
+🎧
+
+星座运势：
+
+{{luck.DATA}}
+
+寄言：
+
+{{lizhi.DATA}} 
+
+{{note_en.DATA}} 
+{{note_ch.DATA}} 
+{{pipi.DATA}}
 ```
 
 这个模板可以整个全部复制进去
